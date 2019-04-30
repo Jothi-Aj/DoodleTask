@@ -1,0 +1,6 @@
+
+export const SHOW_DETAILS = 'SHOW_DETAILS';
+export const ADD_DETAILS = 'ADD_DETAILS';
+export const UPDATE_DETAILS = 'UPDATE_DETAILS';
+export const DELETE_DETAILS = 'DELETE_DETAILS';
+
